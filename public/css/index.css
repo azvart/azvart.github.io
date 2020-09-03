@@ -415,7 +415,7 @@ span:after{
 
 
 @media (max-width:768px){
-	.owl-carousel{
+.owl-carousel{
 		display:none !important;
 	}
 	.img-container{
