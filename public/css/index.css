@@ -415,6 +415,9 @@ span:after{
 
 
 @media (max-width:768px){
+	.owl-carousel{
+		display:none;
+	}
     .header-logo{
         text-align: center;
         flex-basis:20%;
